@@ -4,7 +4,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x;
+    mut x;
     if x == 10 {
         println!("x is ten!");
     } else {
